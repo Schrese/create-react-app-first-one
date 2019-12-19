@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Something New for my first deployment 🤣</h1>
+      <h1>Something New for my first deployment 🤣💪👻❤</h1>
       <h2>
         Deployed with{' '}
         <a
